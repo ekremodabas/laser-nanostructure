@@ -1,0 +1,23 @@
+the number of cycles:10
+the number of points in x direction:28
+the number of points in y direction:28
+resolution, nm:40
+the number of the file name:0
+the scanning step in X direction, nm:0
+the scanning step in Y direction, nm:0
+Scattered wavelength(nm):3000
+the angle of polarization:0
+phase shift between X and Y:0
+phase shift for retardation on the surface:0
+the starting beam X position, nm:500
+the starting beam Y position, nm:500
+Maximum incident intensity W/cm^2:8e+15
+Diameter of beam at 1/e (mkm):8
+Field enchancement for dipole:3e-2
+Field enchancement for PP:1e-3
+Decay length for PP(um):2
+How many defects:1
+Defect radius(nm):150
+Create defect on center:False
+X position(nm):700
+Y position(nm):700
